@@ -48,6 +48,7 @@ function bucketSort(arr, bucketCount = 6) {
     buckets[newIndex] = buckets[newIndex] || [];
     buckets[newIndex].push(num);
   });
+  console.log(buckets)
   // put the elements back into the array
   var idx = 0;
   for (let i = 0; i < buckets.length; i++) {
