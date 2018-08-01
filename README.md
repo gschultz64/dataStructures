@@ -1,8 +1,8 @@
 # dataStructures
 
-data structure examples
+## Data Structure and Algorithm Examples
 
-## Sorting Algorithms
+### Sorting Algorithms
 
 - Insertion Sort
 - Bucket Sort (with insertion)
@@ -10,12 +10,12 @@ data structure examples
 - Merge Sort
 - Quick Sort
 
-## Hash Map
+### Hash Map
 
-## Queues
+### Queues
 
-## Stacks
+### Stacks
 
-## Linked Lists
+### Linked Lists
 
-## Recursion
+### Recursion
