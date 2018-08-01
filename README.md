@@ -6,6 +6,9 @@ data structure examples
 
 - Insertion Sort
 - Bucket Sort (with insertion)
+- Heap Sort
+- Merge Sort
+- Quick Sort
 
 ## Hash Map
 
